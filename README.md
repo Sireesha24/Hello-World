@@ -1,3 +1,3 @@
 # Hello-World
 My First Repository
-Hey I crated the first branch
+Hey I created the first branch
